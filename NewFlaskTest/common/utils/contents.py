@@ -1,0 +1,4 @@
+EXTRA_ENV_COINFIG = 'ENV_CONFIG'  # 额外配置对应的环境变量名
+SMS_CODE_EXPIRE = 300 #短信有效期
+BASE_URL_PRIFIX = '/app'
+HOME_PRE_PAGE = 20 # 单页最大条数
